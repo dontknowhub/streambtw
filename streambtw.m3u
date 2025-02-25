@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
-https://danny.solutions/playlist/stream_9.m3u8
+https://danny.solutions/playlist/stream_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.premierleague.com/resources/rebrand/v7.152.6/i/elements/pl-main-logo.png" group-title="StreamBTW",Premier League
 #EXTVLCOPT:http-origin=https://streambtw.com
@@ -22,7 +22,7 @@ https://danny.solutions/playlist/stream_3.m3u8
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
-https://danny.solutions/playlist/stream_4.m3u8
+https://danny.solutions/playlist/stream_9.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.premierleague.com/resources/rebrand/v7.152.6/i/elements/pl-main-logo.png" group-title="StreamBTW",Premier League
 #EXTVLCOPT:http-origin=https://streambtw.com
