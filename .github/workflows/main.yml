@@ -31,7 +31,7 @@ jobs:
 
       # Run the scraping script
       - name: Run the scraping script
-        run: python scrape.py
+        run: python main.py
         
       # Check if the playlist file exists and commit it to the repo
       - name: Commit the M3U playlist file
