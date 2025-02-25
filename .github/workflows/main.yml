@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: '*/30 * * * *' # Runs every 30 minutes
 
+permissions:
+  contents: write  # Ensure GitHub Actions has write access to the contents
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -28,7 +31,7 @@ jobs:
 
       # Run the scraping script
       - name: Run the scraping script
-        run: python main.py
+        run: python scrape.py
         
       # Check if the playlist file exists and commit it to the repo
       - name: Commit the M3U playlist file
