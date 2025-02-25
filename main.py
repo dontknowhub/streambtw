@@ -75,14 +75,14 @@ if __name__ == "__main__":
             m3u8_link = extract_m3u8_from_iframe(iframe)
             if m3u8_link:
                 streams.append((match_title, logo, m3u8_link))
-                print(f"✅ Found M3U8: {m3u8_link}\n")
+                print(f"Found M3U8: {m3u8_link}\n")
             else:
-                print("❌ No M3U8 link found.\n")
+                print("No M3U8 link found.\n")
 
     if streams:
         playlist_content = generate_m3u_playlist(streams)
         with open(PLAYLIST_FILE, "w", encoding="utf-8") as file:
             file.write(playlist_content)
-        print(f"✅ Playlist saved as {PLAYLIST_FILE}")
+        print(f"Playlist saved as {PLAYLIST_FILE}")
     else:
-        print("❌ No streams found. Playlist not created.")
+        print("No streams found. Playlist not created.")
