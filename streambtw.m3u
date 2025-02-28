@@ -6,6 +6,12 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
 https://danny.solutions/playlist/stream_wwe.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.wwe.com/a/i/wwe_logo.svg" group-title="StreamBTW",WWE
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
+https://danny.solutions/playlist/stream_wwe2.m3u8
+
 #EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/119cfa41-71d4-39bf-a790-6273a52b0259/logo/original_201809051718.svg" group-title="StreamBTW",Soccer
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
