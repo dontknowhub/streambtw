@@ -174,6 +174,54 @@ https://danny.solutions/playlist/stream_12.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
 https://danny.solutions/playlist/stream_12.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.efl.com/efl-logo-large.svg" group-title="StreamBTW",EFL
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
+https://danny.solutions/playlist/stream_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.efl.com/efl-logo-large.svg" group-title="StreamBTW",EFL
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
+https://danny.solutions/playlist/stream_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.efl.com/efl-logo-large.svg" group-title="StreamBTW",EFL
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
+https://danny.solutions/playlist/stream_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.efl.com/efl-logo-large.svg" group-title="StreamBTW",EFL
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
+https://danny.solutions/playlist/stream_15.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.efl.com/efl-logo-large.svg" group-title="StreamBTW",EFL
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
+https://danny.solutions/playlist/stream_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.efl.com/efl-logo-large.svg" group-title="StreamBTW",EFL
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
+https://danny.solutions/playlist/stream_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.efl.com/efl-logo-large.svg" group-title="StreamBTW",EFL
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
+https://danny.solutions/playlist/stream_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.efl.com/efl-logo-large.svg" group-title="StreamBTW",EFL
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
+https://danny.solutions/playlist/stream_15.m3u8
+
 #EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="StreamBTW",NBA
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
