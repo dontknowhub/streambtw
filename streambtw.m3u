@@ -16,19 +16,19 @@ https://cric-i.com/live/stream_box1.m3u8
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
-https://danny.solutions/playlist/stream_box2.m3u8
+https://cric-i.com/live/stream_box2.m3u8
 
 #EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/889c6d08-03c6-31cc-93da-ef344c22a1c4/logo/original_201809051644.svg" group-title="StreamBTW",Fights
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
-https://danny.solutions/playlist/stream_box3.m3u8
+https://cric-i.com/live/stream_box3.m3u8
 
 #EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/889c6d08-03c6-31cc-93da-ef344c22a1c4/logo/original_201809051644.svg" group-title="StreamBTW",Fights
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
-https://danny.solutions/playlist/stream_box4.m3u8
+https://cric-i.com/live/stream_box4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wwe.com/a/i/wwe_logo.svg" group-title="StreamBTW",WWE
 #EXTVLCOPT:http-origin=https://streambtw.com
