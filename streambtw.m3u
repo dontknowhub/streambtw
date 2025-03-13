@@ -22,6 +22,18 @@ https://danny.solutions/playlist/stream_3.m3u8
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
+https://danny.solutions/playlist/stream_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/uel/2024/logos/uel_logotype_fc_dark.svg" group-title="StreamBTW",UEFA League
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
+https://danny.solutions/playlist/stream_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/uel/2024/logos/uel_logotype_fc_dark.svg" group-title="StreamBTW",UEFA League
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
 https://danny.solutions/playlist/stream_6.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/uel/2024/logos/uel_logotype_fc_dark.svg" group-title="StreamBTW",UEFA League
@@ -41,6 +53,12 @@ https://danny.solutions/playlist/stream_9.m3u8
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
 https://danny.solutions/playlist/stream_10.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/uel/2024/logos/uel_logotype_fc_dark.svg" group-title="StreamBTW",UEFA League
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
+https://danny.solutions/playlist/stream_11.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/uel/2024/logos/uel_logotype_fc_dark.svg" group-title="StreamBTW",UEFA League
 #EXTVLCOPT:http-origin=https://streambtw.com
@@ -172,7 +190,19 @@ https://cric-i.com/live/stream_mlb1.m3u8
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
+https://cric-i.com/live/stream_mlb2.m3u8
+
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/b38f959b-7865-31ac-8841-b88355519e10/logo/original_201811152008.svg" group-title="StreamBTW",MLB
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
 https://cric-i.com/live/stream_mlb3.m3u8
+
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/b38f959b-7865-31ac-8841-b88355519e10/logo/original_201811152008.svg" group-title="StreamBTW",MLB
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
+https://cric-i.com/live/stream_mlb4.m3u8
 
 #EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/b38f959b-7865-31ac-8841-b88355519e10/logo/original_201811152008.svg" group-title="StreamBTW",MLB
 #EXTVLCOPT:http-origin=https://streambtw.com
@@ -197,6 +227,12 @@ https://cric-i.com/live/stream_mlb7.m3u8
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
 https://cric-i.com/live/stream_mlb8.m3u8
+
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/b38f959b-7865-31ac-8841-b88355519e10/logo/original_201811152008.svg" group-title="StreamBTW",MLB
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
+https://cric-i.com/live/stream_mlb9.m3u8
 
 #EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/b38f959b-7865-31ac-8841-b88355519e10/logo/original_201811152008.svg" group-title="StreamBTW",MLB
 #EXTVLCOPT:http-origin=https://streambtw.com
