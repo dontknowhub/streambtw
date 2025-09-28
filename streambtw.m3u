@@ -58,7 +58,13 @@ https://playlist.streameast247.com/playlist/stream_7.m3u8
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
-https://smsbusinesshub.com/playlist/stream_8.m3u8
+https://playlist.streameast247.com/playlist/stream_8.m3u8
+
+#EXTINF:-1 tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="StreamBTW",Ligue 1
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
+https://playlist.streameast247.com/playlist/stream_8.m3u8
 
 #EXTINF:-1 tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="StreamBTW",Ligue 1
 #EXTVLCOPT:http-origin=https://streambtw.com
@@ -70,13 +76,7 @@ https://smsbusinesshub.com/playlist/stream_8.m3u8
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
-https://playlist.streameast247.com/playlist/stream_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="StreamBTW",Ligue 1
-#EXTVLCOPT:http-origin=https://streambtw.com
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/133.0.0.0
-https://smsbusinesshub.com/playlist/stream_8.m3u8
+https://playlist.streameast247.com/playlist/stream_8.m3u8
 
 #EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg" group-title="StreamBTW",Bundesliga
 #EXTVLCOPT:http-origin=https://streambtw.com
